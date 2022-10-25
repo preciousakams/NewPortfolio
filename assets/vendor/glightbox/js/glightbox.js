@@ -542,7 +542,7 @@
 
     if (typeof current == 'string') {
       current = parseInt(current);
-    }
+    } 
 
     var orders = [];
     each(btns, function (btn) {
