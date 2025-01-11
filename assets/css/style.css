@@ -68,7 +68,6 @@ h6 {
   overflow: hidden;
   background: #fff;
 }
-
 #preloader:before {
   content: "";
   position: fixed;
